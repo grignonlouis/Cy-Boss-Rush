@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+data/
+*.log
+.DS_Store
+
+# On ignore la base de dev mais PAS db/
+!db/
